@@ -1,0 +1,93 @@
+{
+  "_chunk-0e184ced.js": {
+    "file": "assets/chunk-0e184ced.js"
+  },
+  "_chunk-fefd64e3.js": {
+    "file": "assets/chunk-fefd64e3.js"
+  },
+  "node_modules/.pnpm/vite-plugin-ssr@0.4.78_vite@4.1.1/node_modules/vite-plugin-ssr/dist/esm/client/entry.js": {
+    "dynamicImports": [
+      "pages/about/index.page.jsx",
+      "pages/index/index.page.jsx",
+      "renderer/_error.page.jsx",
+      "renderer/_default.page.client.jsx"
+    ],
+    "file": "assets/entry-server-routing.d026521f.js",
+    "imports": [
+      "_chunk-fefd64e3.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/.pnpm/vite-plugin-ssr@0.4.78_vite@4.1.1/node_modules/vite-plugin-ssr/dist/esm/client/entry.js"
+  },
+  "node_modules/.pnpm/vite-plugin-ssr@0.4.78_vite@4.1.1/node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js": {
+    "dynamicImports": [
+      "pages/about/index.page.jsx",
+      "pages/index/index.page.jsx",
+      "renderer/_error.page.jsx",
+      "renderer/_default.page.client.jsx"
+    ],
+    "file": "assets/entry-client-routing.c0a96952.js",
+    "imports": [
+      "_chunk-fefd64e3.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/.pnpm/vite-plugin-ssr@0.4.78_vite@4.1.1/node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js"
+  },
+  "pages/about/index.page.css": {
+    "file": "assets/index.page.f1aef519.css",
+    "src": "pages/about/index.page.css"
+  },
+  "pages/about/index.page.jsx": {
+    "css": [
+      "assets/index.page.f1aef519.css"
+    ],
+    "file": "assets/pages/about/index.page.7f9e1a2f.js",
+    "imports": [
+      "_chunk-0e184ced.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "pages/about/index.page.jsx"
+  },
+  "pages/index/index.page.jsx": {
+    "file": "assets/pages/index/index.page.02eb9547.js",
+    "imports": [
+      "_chunk-0e184ced.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "pages/index/index.page.jsx"
+  },
+  "renderer/_default.page.client.css": {
+    "file": "assets/_default.page.client.d4835ae9.css",
+    "src": "renderer/_default.page.client.css"
+  },
+  "renderer/_default.page.client.jsx": {
+    "assets": [
+      "assets/logo.bebe2e90.svg"
+    ],
+    "css": [
+      "assets/_default.page.client.d4835ae9.css"
+    ],
+    "file": "assets/renderer/_default.page.client.2d4dcdbd.js",
+    "imports": [
+      "_chunk-0e184ced.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "renderer/_default.page.client.jsx"
+  },
+  "renderer/_error.page.jsx": {
+    "file": "assets/renderer/_error.page.3668442d.js",
+    "imports": [
+      "_chunk-0e184ced.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "renderer/_error.page.jsx"
+  },
+  "renderer/logo.svg": {
+    "file": "assets/logo.bebe2e90.svg",
+    "src": "renderer/logo.svg"
+  }
+}
